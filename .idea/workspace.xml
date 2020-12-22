@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ca4fa3a-b105-49b7-bcff-dd776ed844da" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/expenditure_list_view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1377">
+              <caret line="81" column="68" selection-start-line="81" selection-start-column="68" selection-end-line="81" selection-end-column="68" />
+              <folding>
+                <marker date="1558250510000" expanded="true" signature="627:689" ph="DELETE FROM " />
+                <marker date="1558250510000" expanded="true" signature="2357:2379" ph="SELECT * FRO... training" />
+                <marker date="1558250510000" expanded="true" signature="2602:2627" ph="SELECT * FRO... expenditure" />
+                <marker date="1558250510000" expanded="true" signature="2713:2723" ph="..." />
+                <marker date="1558250510000" expanded="true" signature="2832:2856" ph="..." />
+                <marker date="1558250510000" expanded="true" signature="2857:3168" ph="..." />
+                <marker date="1558250510000" expanded="true" signature="3234:3264" ph="..." />
+                <marker date="1558250510000" expanded="true" signature="3749:4355" ph="..." />
+                <marker date="1558250510000" expanded="false" signature="4022:4045" ph="..." />
+                <marker date="1558250510000" expanded="true" signature="4090:4343" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/date_expenditure.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2193">
+              <caret line="129" column="91" selection-start-line="129" selection-start-column="91" selection-end-line="129" selection-end-column="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/edit_supplier_info.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="39" column="33" lean-forward="true" selection-start-line="34" selection-end-line="39" selection-end-column="33" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/supplier_list_view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="141" column="33" lean-forward="true" selection-start-line="138" selection-start-column="28" selection-end-line="141" selection-end-column="33" />
+              <folding>
+                <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#tbody#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/xampp/htdocs/pdf/submission.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="381" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/xampp/htdocs/pdf/search.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="56" column="66" selection-start-line="56" selection-start-column="66" selection-end-line="56" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://C:/xampp/htdocs/pdf/view_submission_form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LOGIN.PHP" />
+        <option value="H:/bms20/sub_catagory.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="C:/cms/index.php" />
+        <option value="C:/cms/budget_entry.php" />
+        <option value="C:/cms/supplier_info.php" />
+        <option value="C:/cms/daily_bill.php" />
+        <option value="C:/cms/sidebar.php" />
+        <option value="C:/cms/income.php" />
+        <option value="C:/cms/connection.php" />
+        <option value="C:/cms/expenditure.php" />
+        <option value="C:/cms/function.php" />
+        <option value="C:/cms/monthly_state.php" />
+        <option value="$PROJECT_DIR$/trining batch_list_view.php" />
+        <option value="$PROJECT_DIR$/sidebar.php" />
+        <option value="C:/cms/expenditure_report.php" />
+        <option value="$PROJECT_DIR$/summary_report1.php" />
+        <option value="$PROJECT_DIR$/date_expenditure1.php" />
+        <option value="$PROJECT_DIR$/function.php" />
+        <option value="$PROJECT_DIR$/gallery.php" />
+        <option value="$PROJECT_DIR$/budget_approval.php" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/summary_report.php" />
+        <option value="$PROJECT_DIR$/training_batch_dept.php" />
+        <option value="$PROJECT_DIR$/expenditure_list_view.php" />
+        <option value="$PROJECT_DIR$/budget_list_view.php" />
+        <option value="$PROJECT_DIR$/date_expenditure.php" />
+        <option value="$PROJECT_DIR$/budget_entry.php" />
+        <option value="$PROJECT_DIR$/edit_supplier_info.php" />
+        <option value="$PROJECT_DIR$/edit_organization.php" />
+        <option value="$PROJECT_DIR$/edit_expenditure.php" />
+        <option value="$PROJECT_DIR$/edit_budget_entry.php" />
+        <option value="$PROJECT_DIR$/staff_list_view.php" />
+        <option value="$PROJECT_DIR$/organization_list_view.php" />
+        <option value="$PROJECT_DIR$/organization_info.php" />
+        <option value="$PROJECT_DIR$/expenditure_report.php" />
+        <option value="$PROJECT_DIR$/training batch_list_view.php" />
+        <option value="$PROJECT_DIR$/training_batch_list_view.php" />
+        <option value="$PROJECT_DIR$/supplier_list_view.php" />
+        <option value="$PROJECT_DIR$/supplier_info.php" />
+        <option value="$PROJECT_DIR$/staff_information.php" />
+        <option value="$PROJECT_DIR$/edit_staff_info.php" />
+        <option value="$PROJECT_DIR$/edit_training.php" />
+        <option value="$PROJECT_DIR$/budget_report.php" />
+        <option value="$PROJECT_DIR$/dashboard.php" />
+        <option value="$PROJECT_DIR$/navbar.php" />
+        <option value="$PROJECT_DIR$/budget_cancel.php" />
+        <option value="C:/xampp/htdocs/bms20/budget_cancel.php" />
+        <option value="C:/xampp/htdocs/pdf/view submission form.php" />
+        <option value="C:/xampp/htdocs/pdf/search.php" />
+        <option value="C:/xampp/htdocs/pdf/view_submission_form.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="55" />
+    <option name="y" value="80" />
+    <option name="width" value="1385" />
+    <option name="height" value="830" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/xampp/htdocs/pdf" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\pdf" />
+      <recent name="C:\xampp\htdocs\bms20" />
+      <recent name="C:\xampp\htdocs\cms" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ca4fa3a-b105-49b7-bcff-dd776ed844da" name="Default" comment="" />
+      <created>1554861453080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554861453080</updated>
+      <workItem from="1554861454340" duration="3544000" />
+      <workItem from="1554884912043" duration="1742000" />
+      <workItem from="1556008032666" duration="3421000" />
+      <workItem from="1556176146161" duration="3832000" />
+      <workItem from="1556769535836" duration="759000" />
+      <workItem from="1556791493078" duration="3208000" />
+      <workItem from="1557045353162" duration="536000" />
+      <workItem from="1557116955166" duration="13744000" />
+      <workItem from="1557377573527" duration="1218000" />
+      <workItem from="1557394487191" duration="1084000" />
+      <workItem from="1557728224239" duration="10486000" />
+      <workItem from="1557814675294" duration="15960000" />
+      <workItem from="1557893546235" duration="3340000" />
+      <workItem from="1557900559386" duration="1495000" />
+      <workItem from="1558069529845" duration="4182000" />
+      <workItem from="1558249343285" duration="1796000" />
+      <workItem from="1558251376436" duration="1390000" />
+      <workItem from="1558257491728" duration="388000" />
+      <workItem from="1560396906503" duration="2903000" />
+      <workItem from="1561621869243" duration="2000" />
+      <workItem from="1561621952999" duration="5000" />
+      <workItem from="1561622006942" duration="37000" />
+      <workItem from="1561622083042" duration="750000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="75829000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26308724" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/project dict 20/bms20/budget_entry.php" />
+    <entry file="file://$USER_HOME$/Desktop/project dict 20/bms20/training_batch_dept.php" />
+    <entry file="file://$USER_HOME$/Desktop/bms 20 new/bms2/bms20/budget_entry.php" />
+    <entry file="file://$USER_HOME$/Desktop/bms 20 new/bms2/bms20/budget_list_view.php" />
+    <entry file="file://C:/cms/monthly_state.php" />
+    <entry file="file://C:/cms/individual_bill.php" />
+    <entry file="file://C:/cms/expenditure.php" />
+    <entry file="file://C:/cms/expenditure_report.php" />
+    <entry file="file://$USER_HOME$/Desktop/bms 20 new/bms2/bms20/training_batch_dept.php" />
+    <entry file="file://C:/bms19/budget_list_view.php" />
+    <entry file="file://$PROJECT_DIR$/summary_report1.php" />
+    <entry file="file://$PROJECT_DIR$/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="74" selection-start-line="20" selection-start-column="74" selection-end-line="20" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/date_expenditure1.php" />
+    <entry file="file://$USER_HOME$/Desktop/final for presentation/bms20/expenditure_list_view.php" />
+    <entry file="file://$USER_HOME$/Desktop/final for presentation/bms20/date_expenditure.php" />
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/budget_approval.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="41" column="70" selection-start-line="41" selection-start-column="57" selection-end-line="41" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/budget_list_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="163" column="44" selection-start-line="163" selection-start-column="44" selection-end-line="163" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit_organization.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="142" column="41" selection-start-line="142" selection-start-column="41" selection-end-line="142" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit_expenditure.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="170" column="41" selection-start-line="170" selection-start-column="41" selection-end-line="170" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit_budget_entry.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="100" column="74" lean-forward="true" selection-start-line="100" selection-start-column="74" selection-end-line="100" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/budget_entry.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2373">
+          <caret line="124" column="7" selection-start-line="124" selection-start-column="7" selection-end-line="124" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/staff_list_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="161" column="41" selection-start-line="161" selection-start-column="41" selection-end-line="161" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/organization_list_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="155" column="41" selection-start-line="155" selection-start-column="41" selection-end-line="155" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/organization_info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="98" column="45" selection-start-line="98" selection-start-column="45" selection-end-line="98" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expenditure_report.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="197" column="41" selection-start-line="197" selection-start-column="41" selection-end-line="197" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training batch_list_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3171">
+          <caret line="151" column="41" selection-start-line="151" selection-start-column="41" selection-end-line="151" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training_batch_list_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3171">
+          <caret line="151" column="41" selection-start-line="151" selection-start-column="41" selection-end-line="151" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training_batch_dept.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="60" column="30" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/supplier_info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2058">
+          <caret line="98" column="7" selection-start-line="98" selection-start-column="7" selection-end-line="98" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampp/htdocs/bms20/budget_cancel.php" />
+    <entry file="file://$PROJECT_DIR$/budget_cancel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="142" column="41" selection-start-line="142" selection-start-column="41" selection-end-line="142" selection-end-column="41" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1558257522000" expanded="true" signature="1001:1023" ph="SELECT * FRO... training" />
+            <marker date="1558257522000" expanded="true" signature="1253:1318" ph="update budge... " />
+            <marker date="1558257522000" expanded="true" signature="1364:1409" ph="SELECT * FRO... budget" />
+            <marker date="1558257522000" expanded="true" signature="1584:1722" ph="..." />
+            <marker date="1558257522000" expanded="true" signature="1611:1711" ph="..." />
+            <marker date="1558257522000" expanded="true" signature="1773:1797" ph="..." />
+            <marker date="1558257522000" expanded="true" signature="1798:1969" ph="..." />
+            <marker date="1558257522000" expanded="true" signature="2027:2058" ph="..." />
+            <marker date="1558257522000" expanded="true" signature="2553:2889" ph="..." />
+            <marker date="1558257522000" expanded="true" signature="2782:2879" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navbar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/budget_report.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="209" column="41" selection-start-line="209" selection-start-column="41" selection-end-line="209" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit_training.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="102" column="42" selection-start-line="102" selection-start-column="42" selection-end-line="102" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit_staff_info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="97" column="41" selection-start-line="97" selection-start-column="12" selection-end-line="97" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/staff_information.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summary_report.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="65" column="31" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampp/htdocs/briefing/Briefing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-648" />
+      </provider>
+    </entry>
+    <entry file="file://C:/xampp/htdocs/briefing/insertFamily.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expenditure_list_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="81" column="68" selection-start-line="81" selection-start-column="68" selection-end-line="81" selection-end-column="68" />
+          <folding>
+            <marker date="1558250510000" expanded="true" signature="627:689" ph="DELETE FROM " />
+            <marker date="1558250510000" expanded="true" signature="2357:2379" ph="SELECT * FRO... training" />
+            <marker date="1558250510000" expanded="true" signature="2602:2627" ph="SELECT * FRO... expenditure" />
+            <marker date="1558250510000" expanded="true" signature="2713:2723" ph="..." />
+            <marker date="1558250510000" expanded="true" signature="2832:2856" ph="..." />
+            <marker date="1558250510000" expanded="true" signature="2857:3168" ph="..." />
+            <marker date="1558250510000" expanded="true" signature="3234:3264" ph="..." />
+            <marker date="1558250510000" expanded="true" signature="3749:4355" ph="..." />
+            <marker date="1558250510000" expanded="false" signature="4022:4045" ph="..." />
+            <marker date="1558250510000" expanded="true" signature="4090:4343" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/date_expenditure.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2193">
+          <caret line="129" column="91" selection-start-line="129" selection-start-column="91" selection-end-line="129" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/supplier_list_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="141" column="33" lean-forward="true" selection-start-line="138" selection-start-column="28" selection-end-line="141" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tbody#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampp/htdocs/pdf/submission.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="381" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampp/htdocs/pdf/view submission form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4245">
+          <caret line="381" column="9" selection-start-line="381" selection-start-column="9" selection-end-line="381" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampp/htdocs/pdf/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="56" column="66" selection-start-line="56" selection-start-column="66" selection-end-line="56" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit_supplier_info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="39" column="33" lean-forward="true" selection-start-line="34" selection-end-line="39" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampp/htdocs/pdf/view_submission_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
